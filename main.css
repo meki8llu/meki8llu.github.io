@@ -32,6 +32,11 @@ body div div {
     justify-content: center;
 }
 
+@media screen and (max-width: 800px){
+    body {
+        background-repeat: repeat;
+    }
+}
 
 
 
