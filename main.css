@@ -1,0 +1,37 @@
+
+
+body {
+    background-color: #81C2EA;
+    text-align: center;
+    background-image: url("chino gifs/image1.png");
+    background-size: 110%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body div{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+body p{
+    font-size: 60px;
+    font-family: Castellar;
+    
+}
+body figure {
+    margin-left: auto;
+    margin-right: auto;
+}
+body figure img{
+    max-width: 400px;
+    max-height: 224px;
+}
+body div div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+
